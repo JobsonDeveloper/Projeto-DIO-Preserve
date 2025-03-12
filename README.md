@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://preserve.vercel.app/)
 
 ### Ferramentas utiliizadas:
